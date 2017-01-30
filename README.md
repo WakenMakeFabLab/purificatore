@@ -43,10 +43,10 @@ Lista materiali:
 * Multi-meter
 * Carta vetrata
 * colla da legno
-4x M3 x 40 bulloni
-2x M3 x 15 bulloni
-Spacer (Aste di fissaggio?)
-1 PC
+* 4x M3 x 40 bulloni
+* 2x M3 x 15 bulloni
+* Spacer (Aste di fissaggio?)
+* 1 PC
 
 Costo stimato: 70 euro
 
