@@ -34,7 +34,7 @@ Lista materiali:
 ## strumenti
 * stampante 3d
 * Laser cutter
-* saldatore e Tin(?)
+* saldatore e stagno
 * Nastro isolante da elettricitsta
 * cacciaviate
 * pinzette
@@ -45,7 +45,7 @@ Lista materiali:
 * colla da legno
 * 4x M3 x 40 bulloni
 * 2x M3 x 15 bulloni
-* Spacer (Aste di fissaggio?)
+* distanziatori esagonali
 * 1 PC
 
 Costo stimato: 70 euro
